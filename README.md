@@ -1,7 +1,7 @@
 # Wasith Theerapattrathamrong
 
 - Email: wasith.t@gmail.com
-- Mobile: +66 (8) 5566-6513
+- Mobile: +66 8 5566-6513
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
 - GitHub: [https://github.com/PH9](https://github.com/PH9)
 
@@ -54,10 +54,12 @@
 ## Event Organizer
 
 - **Mobile Conf Thailand**, 2018 - Present
+- **Go Get TH**, 2018 - Present
 - **Agile Tour Bangkok**, Agile66, 2015 - Present
 - **Agile Thailand**, Agile66, 2015 - Present
 - **iOSDevTH Meetup**, iOSDevTH, 2016 - Present
-- **Untitied**, SPRINT3r, 2016 - 2017
+- **MissConf(SP1)**, First known free security conference in Thailand, 2016
+- **Untitied**, Open Space Technology, 2016 - 2018
 
 ## Youtube Channel
 
