@@ -9,7 +9,7 @@
 - **Do we still need UI Tests?**, iOSDevTH Meetup at True Digital Park, 2020
 - **The Art of Design Code**, KBTG Tech Meetup, 2018
 - **Civil Swift**, KBTG Tech Meetup, 2018
-- **Microserivces & DevOps**, KBTG Tech Meetup, 2018
+- **Microservices & DevOps**, KBTG Tech Meetup, 2018
 
 ## Private Course
 
@@ -136,9 +136,9 @@
 - **Business Development Foundation**, LinkedIn, Jun 2019
 - **Change Management Foundation**, LinkedIn, Jun 2019
 - **Digital Transformation**, LinkedIn, Jun 2019
-- **Negogiation Foundations (2012)**, Lynda.com, Jun 2019
+- **Negotiation Foundations (2012)**, Lynda.com, Jun 2019
 - **Scrum: The Basics**, LinkedIn, Jun 2019
-- **Stratigic Thinking**, LinkedIn, Jun 2019
+- **Strategic Thinking**, LinkedIn, Jun 2019
 
 ## Joined Training
 
