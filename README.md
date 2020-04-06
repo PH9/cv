@@ -2,6 +2,7 @@
 
 - Email: wasith.t@gmail.com
 - Mobile: +66-85-566-6513
+- Publish: [https://medium.com/@phai](https://medium.com/@phai)
 
 ## Speaker
 
