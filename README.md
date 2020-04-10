@@ -11,7 +11,7 @@
 - **Do we still need UI Tests?**, iOSDevTH Meetup at True Digital Park, 2020
 - **The Art of Design Code**, KBTG Tech Meetup, 2018
 - **Civil Swift**, KBTG Tech Meetup, 2018
-- **Microservices & DevOps**, KBTG Tech Meetup, 2018
+- **Microservices & DevOps**, KBTG Tech Meetup, [Oct 2018](https://youtu.be/1In2MtuS1aw)
 
 ## Private Course
 
