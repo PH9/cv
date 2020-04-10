@@ -5,6 +5,10 @@
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
 - GitHub: [https://github.com/PH9](https://github.com/PH9)
 
+## Consultant
+
+- **[Fastwork.co](https://fastwork.co)**, Work as an iOS Expert Consultant to Quick Jump Start new Native project, Jan 2019 - April 2019
+
 ## Speaker
 
 - **The Art of Design Code**, Krungari Auto, Mar 2020
