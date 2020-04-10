@@ -3,7 +3,6 @@
 - Email: wasith.t@gmail.com
 - Mobile: +66 8 5566-6513
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
-- GitHub: [https://github.com/PH9](https://github.com/PH9)
 
 ## Consultant
 
