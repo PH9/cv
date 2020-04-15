@@ -1,5 +1,7 @@
 # Wasith Theerapattrathamrong
 
+Proficient in software development for more than 8 years. Experienced in any size of the business, from startup to enterprise. I spoke at many the meet-up events, meanwhile I have been helping software development communities. Love new technology and not afraid of legacy systems. When available, I provide private courses and training. I focus on building products better and helping others to do so.
+
 - Email: wasith.t@gmail.com
 - Mobile: +66 8 5566-6513
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
