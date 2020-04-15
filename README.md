@@ -4,6 +4,13 @@
 - Mobile: +66 8 5566-6513
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
 
+## Apps I have involved with
+
+- [Go by Krungsri Auto](https://apps.apple.com/th/app/go-by-krungsri-auto/id1489440875) (2019 - Present)
+- [Fastwork](https://apps.apple.com/th/app/fastwork-hire-freelancers/id1154830520) (2018 - 2019)
+- [K Plus](https://apps.apple.com/th/app/k-plus/id361170631) (2018 - 2019)
+- [dtac One](https://apps.apple.com/th/app/dtac-one-สำหร-บคนขายด-แทค/id1128716471?l=t) (2015 - 2018)
+
 ## Consultant
 
 - **[Fastwork.co](https://fastwork.co)**, Work as an iOS Expert Consultant to Quick Jump Start new Native project, Jan 2019 - April 2019
