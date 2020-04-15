@@ -19,7 +19,7 @@ Proficient in software development for more than 8 years. Experienced in any siz
 
 ## Speaker
 
-- **The Art of Design Code**, Krungari Auto, Mar 2020
+- **The Art of Design Code**, Krungsri Auto, Mar 2020
 - **Do we still need UI Tests?**, iOSDevTH Meetup at True Digital Park, [Feb 2020](https://www.facebook.com/right.talk.thailand/videos/183325296236177/)
 - **The Art of Design Code**, KBTG Tech Meetup, 2018
 - **Civil Swift**, KBTG Tech Meetup, 2018
