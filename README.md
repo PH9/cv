@@ -158,6 +158,7 @@ Proficient in software development for more than 8 years. Experienced in any siz
 
 ## Joined Training
 
+- **Facilitative Training from Home**, ODDS [Apr 202](https://www.eventpop.me/e/8615)
 - **Kanban (Agile Methodology)**, ODDS [Nov 2018](https://www.eventpop.me/u/7291)
 - **User Story Mapping**, UX Thailand at Novotel on Siam Square, Feb 2019
 - **Go Get TH Workshop** at z.com, [Nov 2018](https://www.eventpop.me/u/4583)
