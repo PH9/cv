@@ -4,6 +4,7 @@ Proficient in software development for more than 8 years. Experienced in any siz
 
 - Email: wasith.t@gmail.com
 - Mobile: +66 8 5566-6513
+- Publush: [https://dev.to/ph9](https://dev.to/ph9) (Start April 2020)
 - Publish: [https://medium.com/@phai](https://medium.com/@phai)
 
 ## Apps I have involved with
