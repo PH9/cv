@@ -9,10 +9,10 @@ Proficient in software development for more than 8 years. Experienced in any siz
 
 ## Apps I have involved with
 
-- [Go by Krungsri Auto](https://apps.apple.com/th/app/go-by-krungsri-auto/id1489440875) (2019 - Present)
-- [Fastwork](https://apps.apple.com/th/app/fastwork-hire-freelancers/id1154830520) (2018 - 2019)
-- [K Plus](https://apps.apple.com/th/app/k-plus/id361170631) (2018 - 2019)
-- [dtac One](https://apps.apple.com/th/app/dtac-one-สำหร-บคนขายด-แทค/id1128716471?l=t) (2015 - 2018)
+- [Go by Krungsri Auto](https://apps.apple.com/th/app/go-by-krungsri-auto/id1489440875) (Oct 2019 - Present)
+- [Fastwork](https://apps.apple.com/th/app/fastwork-hire-freelancers/id1154830520) (Nov 2018 - Apr 2019)
+- [K Plus](https://apps.apple.com/th/app/k-plus/id361170631) (Jun 2018 - Sep 2019)
+- [dtac One](https://apps.apple.com/th/app/dtac-one-สำหร-บคนขายด-แทค/id1128716471?l=t) (Apr 2015 - Jul 2018)
 
 ## Consultant
 
