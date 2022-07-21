@@ -9,9 +9,11 @@ Proficient in software development for more than 8 years. Experienced in any siz
 
 ## Apps I have involved with
 
-- [Go by Krungsri Auto](https://apps.apple.com/th/app/go-by-krungsri-auto/id1489440875) (Oct 2019 - Present)
+- [TrueMoney Wallet](https://apps.apple.com/us/app/truemoney-wallet/id663885752) (Oct 2021 - Present)
+- [Kaidee](https://www.kaidee.com) (N/A)
+- [Go by Krungsri Auto](https://apps.apple.com/th/app/go-by-krungsri-auto/id1489440875) (Oct 2019 - N/A)
 - [Fastwork](https://apps.apple.com/th/app/fastwork-hire-freelancers/id1154830520) (Nov 2018 - Apr 2019)
-- [K Plus](https://apps.apple.com/th/app/k-plus/id361170631) (Jun 2018 - Sep 2019)
+- [K Plus](https://apps.apple.com/th/app/k-plus/id361170631), [K PLUS SME](https://apps.apple.com/sg/app/k-plus-sme/id1181844280) (Jun 2018 - Sep 2019)
 - [dtac One](https://apps.apple.com/th/app/dtac-one-สำหร-บคนขายด-แทค/id1128716471?l=t) (Apr 2015 - Jul 2018)
 
 ## Consultant
